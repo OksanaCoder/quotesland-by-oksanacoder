@@ -1,0 +1,15 @@
+.font-bold {
+  font-weight: bold;
+}
+.quote-box {
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  background: #eeeeee;
+}
+.font-italic {
+  font-style: italic;
+}
+.primary-color {
+  color: rgb(58, 120, 255);
+}
